@@ -1,0 +1,30 @@
+2025-07-14 18:51:15,048 [INFO] [service-b] Received request at /process
+2025-07-14 18:51:15,075 [INFO] [service-b] Forwarded request to service-c, received response
+2025-07-14 18:55:07,472 [INFO] [service-b] Received request at /process
+2025-07-14 18:55:07,487 [INFO] [service-b] Forwarded request to service-c, received response
+2025-07-14 18:55:11,924 [INFO] [service-b] Received request at /process
+2025-07-14 18:55:11,933 [INFO] [service-b] Forwarded request to service-c, received response
+2025-07-14 19:02:09,162 [INFO] [service-b] Received request at /process
+2025-07-14 19:02:09,173 [INFO] [service-b] Forwarded request to service-c, received response
+2025-07-14 19:10:15,192 [INFO] [service-b] Received request at /process
+2025-07-14 19:10:15,197 [INFO] [service-b] Forwarded request to service-c, received response
+2025-08-06 18:37:00,227 [INFO] [service-b] Received request at /process
+2025-08-06 18:37:00,231 [INFO] [service-b] Forwarded request to service-c, received response
+2025-08-06 18:39:45,378 [INFO] [service-b] Received request at /process
+2025-08-06 18:39:45,382 [INFO] [service-b] Forwarded request to service-c, received response
+2025-08-06 18:44:05,055 [INFO] [service-b] Received request at /process
+2025-08-06 18:44:05,084 [INFO] [service-b] Forwarded request to service-c, received response
+2025-08-06 18:44:23,723 [INFO] [service-b] Received request at /process
+2025-08-06 18:44:23,730 [INFO] [service-b] Forwarded request to service-c, received response
+2025-08-06 18:49:00,065 [INFO] [service-b] Received request at /process
+2025-08-06 18:49:00,077 [INFO] [service-b] Forwarded request to service-c, received response
+2025-08-06 18:49:01,854 [INFO] [service-b] Received request at /process
+2025-08-06 18:49:01,865 [INFO] [service-b] Forwarded request to service-c, received response
+2025-08-06 18:49:07,188 [INFO] [service-b] Received request at /process
+2025-08-06 18:49:07,200 [INFO] [service-b] Forwarded request to service-c, received response
+2025-08-06 18:51:14,223 [INFO] [service-b] Received request at /process
+2025-08-06 18:51:14,235 [INFO] [service-b] Forwarded request to service-c, received response
+2025-08-06 18:58:27,997 [INFO] [service-b] Received request at /process
+2025-08-06 18:58:28,008 [INFO] [service-b] Forwarded request to service-c, received response
+2025-08-06 19:36:24,860 [INFO] [service-b] Received request at /process
+2025-08-06 19:36:24,866 [INFO] [service-b] Forwarded request to service-c, received response
